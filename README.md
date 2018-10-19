@@ -1,7 +1,7 @@
 # gnuradio
 
 
-This exampels are made with GRC ver 3.7
+This examples are made with GRC ver 3.7
 
 AM-TX+RX.grc   -> transmission and reception of a sound signal AM modulated using BladeRF. WX-GUI version
 
